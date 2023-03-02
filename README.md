@@ -94,7 +94,8 @@ Se possível:
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Projeto realizado junto com a Professora [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Formação JAVA developer "Conhecendo Spring Data JPA na prática com Java"
 
 
 
